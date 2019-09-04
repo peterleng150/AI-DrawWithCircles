@@ -1,9 +1,5 @@
 ## AI-Draw
 
-<div style="text-align:center">
-<img src="https://github.com/peterleng150/CapstoneProject-AIDRAW/blob/master/t1.jpg" width="270" height="300"/>
-</div>
-
 ## What it does
 
 The computer iteratively attempts to mimic an input pictures through drawing it with 300+ circles of varying circle and radii, and continuously improve its accuracy based on a generic genetic algorithm
