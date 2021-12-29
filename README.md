@@ -28,6 +28,5 @@ python -m SimpleHTTPServer
 ```
 This should start a server on port 8000 on your local machine.
 
-Created by Andrew Leng
-
+Created by Peter Leng
 
